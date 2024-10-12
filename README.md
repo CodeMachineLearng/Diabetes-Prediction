@@ -93,6 +93,8 @@ BMI
 
 ### Results
 
+### Confusion Matrix
+
 | **Metric**              | **Median-Imputed Dataset** | **Zero-Removed Dataset** | **Comparison** |
 |-------------------------|----------------------------|--------------------------|----------------|
 | **True Positives (TP)**  | 34                         | 34                       | Same           |
