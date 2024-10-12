@@ -79,12 +79,14 @@ BMI
 
 #### 1.Create a dashboard in tableau by choosing appropriate chart types and metrics useful for the business. The dashboard must entail the following:
 
-1. Pie chart to describe the diabetic or non-diabetic population
+   - Pie chart to describe the diabetic or non-diabetic population
 
-2. Scatter charts between relevant variables to analyze the relationships
+   - Scatter charts between relevant variables to analyze the relationships
 
-3. Histogram or frequency charts to analyze the distribution of the data
+   - Histogram or frequency charts to analyze the distribution of the data
 
-4. Heatmap of correlation analysis among the relevant variables
+   - Heatmap of correlation analysis among the relevant variables
+     
    - Create bins of these age values: 20-25, 25-30, 30-35, etc.
+
    - Analyze different variables for these age brackets using a bubble chart.
