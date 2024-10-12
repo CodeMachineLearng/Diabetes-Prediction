@@ -90,3 +90,13 @@ BMI
    - Create bins of these age values: 20-25, 25-30, 30-35, etc.
 
    - Analyze different variables for these age brackets using a bubble chart.
+
+### Results
+
+| **Metric**              | **Median-Imputed Dataset** | **Zero-Removed Dataset** | **Comparison** |
+|-------------------------|----------------------------|--------------------------|----------------|
+| **True Positives (TP)**  | 34                         | 34                       | Same           |
+| **False Negatives (FN)** | 21                         | 21                       | Same           |
+| **True Negatives (TN)**  | 82                         | 82                       | Same           |
+| **False Positives (FP)** | 17                         | 17                       | Same           |
+
